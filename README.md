@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## :arrow_forward: Executando o projeto
-No CMD, inicie o projeto digitando:
+No terminal inicie o projeto digitando:
 ```
 npm start
 ```
@@ -52,5 +52,4 @@ Se digitado ``N``, será exibida a lista completa de livros ordenada por número
 | 5 | 4 | 'Thinking, fast and slow' | 'Daniel Kahneman' | 'Estilo de vida' | 418 | true | true |
 
 ## :memo: Licença
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
