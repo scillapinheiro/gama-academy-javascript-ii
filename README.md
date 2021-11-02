@@ -54,6 +54,7 @@ Se digitado ``N``, será exibida a lista completa de livros ordenada por número
 
 ## :green_heart: Professor(a)
 [<img src="https://avatars.githubusercontent.com/u/50921892?v=4" width=115> <br> <sub>Simara Conceição</sub>](https://github.com/simaraconceicao)
+| :---: |
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
