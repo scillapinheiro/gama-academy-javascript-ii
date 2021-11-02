@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-executando-o-projeto">Executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-professor(a)">Professor(a)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -50,6 +51,9 @@ Se digitado ``N``, será exibida a lista completa de livros ordenada por número
 | 3 | 2 | 'As veias abertas da américa latina' | 'Eduardo galeano' | 'Americas' | 400 | false | false |
 | 4 | 3 | 'Algoritmos para viver' | 'Brian Christian' | 'Tecnologia' | 412 | true | true |
 | 5 | 4 | 'Thinking, fast and slow' | 'Daniel Kahneman' | 'Estilo de vida' | 418 | true | true |
+
+## :green_heart: Professor(a)
+[<img src="https://avatars.githubusercontent.com/u/50921892?v=4" width=115> <br> <sub>Simara Conceição</sub>](https://github.com/simaraconceicao)
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
